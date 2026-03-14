@@ -3,6 +3,7 @@
 ## 📝 Project Overview
 This project is an interactive Power BI dashboard designed to analyze the sales performance of an e-commerce retail store. The goal of this project is to transform raw, transactional sales data into a high-level visual narrative, allowing business stakeholders to quickly understand revenue trends, identify top-performing product categories, and evaluate regional market dominance. 
 
+
 ## 🗂️ Dataset
 * **Source:** Kaggle (Superstore Sales Dataset)
 * **Description:** The dataset contains historical sales records, including detailed information on order dates, geographic locations, customer segments, and product categories.
